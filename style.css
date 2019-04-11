@@ -1,0 +1,65 @@
+body{
+	height: 700px;
+	background-image: url(https://i.pinimg.com/originals/57/7f/1a/577f1adc97bb8a60a87ae2e19732ea98.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: fit;
+	background-blend-mode: overlay;
+	background-color: rgba(0,0,0,0.5);
+	align-content: center;
+	text-align: center;
+	align-items: center;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	padding-top: 240px;
+	font-size: 50px;
+}
+
+h3{
+	color: orange;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.message{
+	height: 300px;
+	width: 100%;
+}
+
+.message1{
+	height: 2px;
+	width: 100%;
+	/*background: linear-gradient(to right, red, purple);*/
+}
+
+.actionButton{
+	margin-top: 100px;
+	width: 100%;
+	align-self: center;
+	text-align: center;
+}
+
+.borderBottom{
+	
+	border-bottom: 2px solid blue;
+}
+
+.linearGBorder{
+	width: 250px;
+	height: 2px;
+	background: linear-gradient(to right, red, purple);
+}
+
+.btn-lg{
+	margin-top: 70px;
+	background-color: blue;
+	/*border: 2px solid orange;*/
+	box-shadow: 1px 2px rgba(0,0,0,0.5);
+}
+
+.btn-lg:hover{
+	background-color: orange;
+}

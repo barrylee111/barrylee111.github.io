@@ -3,7 +3,7 @@ body{
 	background-image: url(https://i.pinimg.com/originals/57/7f/1a/577f1adc97bb8a60a87ae2e19732ea98.png);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: fit;
+	background-size: 100 auto;
 	background-blend-mode: overlay;
 	background-color: rgba(0,0,0,0.5);
 	align-content: center;
